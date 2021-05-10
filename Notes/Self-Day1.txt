@@ -7,3 +7,9 @@
 
 Get-WmiObject -class Win32_BIOS
 Get-WmiObject -class Win32_OperatingSystem | Format-List
+
+Enable-WindowsOptionalFeature -FeatureName "Containers" -Online -All
+
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
