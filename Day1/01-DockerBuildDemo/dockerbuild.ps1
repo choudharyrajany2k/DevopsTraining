@@ -1,2 +1,2 @@
-docker image build --tag choudharyrajany2k/nanoserver-ps-app:V10 .
+docker image build --tag  choudharyrajany2k/nanoserver-ps-app:V11 .
 
