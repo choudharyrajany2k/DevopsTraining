@@ -1,0 +1,9 @@
+1.) Kernal
+3.)exe is internal and  service is a layer over exe which monitors the status of exe
+4.)SSH
+5.)JSON
+
+
+
+Get-WmiObject -class Win32_BIOS
+Get-WmiObject -class Win32_OperatingSystem | Format-List
