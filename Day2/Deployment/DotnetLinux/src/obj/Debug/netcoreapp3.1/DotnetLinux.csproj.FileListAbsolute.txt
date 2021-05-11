@@ -1,0 +1,13 @@
+D:\DevopsTraining\Day2\Deployment\DotnetLinux\src\bin\Debug\netcoreapp3.1\DotnetLinux.exe
+D:\DevopsTraining\Day2\Deployment\DotnetLinux\src\bin\Debug\netcoreapp3.1\DotnetLinux.deps.json
+D:\DevopsTraining\Day2\Deployment\DotnetLinux\src\bin\Debug\netcoreapp3.1\DotnetLinux.runtimeconfig.json
+D:\DevopsTraining\Day2\Deployment\DotnetLinux\src\bin\Debug\netcoreapp3.1\DotnetLinux.runtimeconfig.dev.json
+D:\DevopsTraining\Day2\Deployment\DotnetLinux\src\bin\Debug\netcoreapp3.1\DotnetLinux.dll
+D:\DevopsTraining\Day2\Deployment\DotnetLinux\src\bin\Debug\netcoreapp3.1\DotnetLinux.pdb
+D:\DevopsTraining\Day2\Deployment\DotnetLinux\src\obj\Debug\netcoreapp3.1\DotnetLinux.csprojAssemblyReference.cache
+D:\DevopsTraining\Day2\Deployment\DotnetLinux\src\obj\Debug\netcoreapp3.1\DotnetLinux.AssemblyInfoInputs.cache
+D:\DevopsTraining\Day2\Deployment\DotnetLinux\src\obj\Debug\netcoreapp3.1\DotnetLinux.AssemblyInfo.cs
+D:\DevopsTraining\Day2\Deployment\DotnetLinux\src\obj\Debug\netcoreapp3.1\DotnetLinux.csproj.CoreCompileInputs.cache
+D:\DevopsTraining\Day2\Deployment\DotnetLinux\src\obj\Debug\netcoreapp3.1\DotnetLinux.dll
+D:\DevopsTraining\Day2\Deployment\DotnetLinux\src\obj\Debug\netcoreapp3.1\DotnetLinux.pdb
+D:\DevopsTraining\Day2\Deployment\DotnetLinux\src\obj\Debug\netcoreapp3.1\DotnetLinux.genruntimeconfig.cache

@@ -1,1 +1,1 @@
-docker push choudharyrajany2k/docker-dotnetconsole-demo:v10 .
+docker push choudharyrajany2k/docker-dotnetconsole-demo:v10
