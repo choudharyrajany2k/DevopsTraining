@@ -1,1 +1,1 @@
-docker image push choudharyrajany2k/nanoserver-ps-app:V11
+docker image push choudharyrajany2k/nanoserver-ps-app:latest

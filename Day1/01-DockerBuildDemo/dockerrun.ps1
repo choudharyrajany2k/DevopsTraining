@@ -1,1 +1,1 @@
-docker run choudharyrajany2k/nanoserver-ps-app:V11
+docker run choudharyrajany2k/nanoserver-ps-app:latest

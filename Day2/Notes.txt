@@ -1,0 +1,9 @@
+﻿Get-Service |Where-Object {
+$_.Name -eq "Docker"
+}|Format-List
+
+Get-Service |Where-Object {
+$_.Name -eq "Docker-D"
+}|Format-List
+
+SI is Service Interface
