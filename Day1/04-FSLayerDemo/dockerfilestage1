@@ -1,0 +1,4 @@
+# escape=`
+FROM mcr.microsoft.com/windows/nanoserver:1809
+RUN md c:\data & `
+echo 'Hello from FsLayer' > c:\data\file1.txt

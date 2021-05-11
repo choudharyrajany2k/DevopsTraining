@@ -1,0 +1,2 @@
+FROM choudharyrajany2k/docker-fslayer-demo:v10
+RUN echo 'Hello from FsLayer 2' > c:\data\file2.txt

@@ -1,0 +1,1 @@
+docker container run --name source choudharyrajany2k/docker-volume-demo:v10 "echo 'start' > c:\app\logs\logs-app1.txt"

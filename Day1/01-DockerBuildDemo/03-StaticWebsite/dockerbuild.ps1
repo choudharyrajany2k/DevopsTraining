@@ -1,0 +1,1 @@
+docker image build --build-arg ENV_NAME="My custom name" --tag choudharyrajany2k/docker-iis-staticwebsite-demo:v10 .

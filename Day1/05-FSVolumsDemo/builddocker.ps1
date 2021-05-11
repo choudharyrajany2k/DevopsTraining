@@ -1,0 +1,1 @@
+docker image build --tag choudharyrajany2k/docker-volume-demo:v10 .
